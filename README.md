@@ -1,1 +1,1 @@
-# Chavez_Gabriel_TypographyInClassExample
+# My cool and awesome fun typography example
